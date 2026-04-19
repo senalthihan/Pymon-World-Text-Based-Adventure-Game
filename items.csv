@@ -1,0 +1,5 @@
+name,description,pickable,consumable
+apple,an edible green fruit that will boost your energy,yes,yes
+pogo,a pogo stick can help you leap further in a race challenge,yes,no
+tree,a standing tree that does nothing much at least for now,no,no
+binocular,an interesting device to inspect the content of adjacent locations,yes,no
